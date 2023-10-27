@@ -10,5 +10,5 @@ tokio-rustls = "0.21"
 thiserror = "1"
 
 [lib]
-name = "my_crate"
+name = "codegpt_client"
 path = "src/lib.rs"
