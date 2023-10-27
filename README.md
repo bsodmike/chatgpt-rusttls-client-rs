@@ -1,4 +1,4 @@
-# chatgp_reqwest_tls_rs
+# chatgpt-rusttls-client-rs
 
 This is a brief exploration into using ChatGPT to churn out trivial boilerplate code, and what's interesting is that we can progressively add more constraints to the request to obtain a more concrete product fit for our use.
 
